@@ -2,6 +2,8 @@
 
 music lover tryna get a career in DSP or audio software engineering (maybe both)
 
+looking for an internship beginning in Fall 2024
+
 ## 🔬 GitHub Stats
 </br>
 <div align="center"> 
