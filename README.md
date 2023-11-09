@@ -1,11 +1,18 @@
 ### Hi there 👋
 
-<div id="badges">
+<div id="social">
   <a href="https://www.linkedin.com/in/vincent-lafouasse/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
 
+</div>
+<div id="tech">
+
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp Badge"/>
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="sh Badge"/>
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="rust badge"/>
+</div>
 
 music lover trying to get a career in DSP or audio software engineering (maybe both)
 
