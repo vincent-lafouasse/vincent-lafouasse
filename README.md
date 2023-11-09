@@ -34,6 +34,9 @@ This project is about coding a C library. It will contain a lot of general purpo
 
 ### Other Projects
 - [Summermall Tower Defence](https://github.com/vincent-lafouasse/Summermall-TD): A mazing tower defense game inspired by Wintermaul TD. Written basically in C with a conservative use of C++ features for convenience.
+- [Game of Life](https://github.com/vincent-lafouasse/Conway-Game-of-Life): An implementation of Conway's Game of Life as a C learning exercise
+
+
 
 ### 🔬 GitHub Stats
 </br>
