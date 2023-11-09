@@ -1,4 +1,4 @@
-### Hi there 👋
+# Vincent Lafouasse
 
 <div id="flat">
   <a href="https://www.linkedin.com/in/vincent-lafouasse/">
@@ -16,11 +16,23 @@
   <img src="https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=black" alt="rust badge"/>
 </div>
 
+</br>
+
 music lover trying to get a career in DSP or audio software engineering (maybe both)
 
 looking for an internship beginning in Fall 2024
 
-## 🔬 GitHub Stats
+### Audio Projects
+- [PossDSP](https://github.com/vincent-lafouasse/PossDSP): A collection of audio plugins brought to life by the Juce framework and C++17
+- [PossWavSynth](https://github.com/vincent-lafouasse/PossWavSynth): An exploration of digital audio, the wav audio format and wavetable synthesis disguised as a non real-time synth using only standard C++17
+- [interval-trainer](https://github.com/vincent-lafouasse/interval-trainer): An ear trainer in Rust featuring a rudimentary synth
+
+### School Projects
+#### Common Core
+- [Libft](https://github.com/vincent-lafouasse/libft): Your very first own library <br>
+This project is about coding a C library. It will contain a lot of general purpose functions your programs will rely upon.
+
+### 🔬 GitHub Stats
 </br>
 <div align="center"> 
    <a href="https://github.com/vincent-lafouasse" >
