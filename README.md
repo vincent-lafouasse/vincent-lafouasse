@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/vincent-lafouasse/MyResume/blob/main/cv_lafouasse.pdf">
-    <img src="https://img.shields.io/badge/Resume-red?style=flat" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Resume-red?style=flat&logo=ReadMe&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
