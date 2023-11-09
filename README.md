@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-music lover tryna get a career in DSP or audio software engineering (maybe both)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/vincent-lafouasse/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+
+music lover trying to get a career in DSP or audio software engineering (maybe both)
 
 looking for an internship beginning in Fall 2024
 
