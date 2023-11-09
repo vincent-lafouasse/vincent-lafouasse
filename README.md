@@ -4,13 +4,15 @@
   <a href="https://www.linkedin.com/in/vincent-lafouasse/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+  <a href="https://github.com/vincent-lafouasse/MyResume/blob/main/cv_lafouasse.pdf">
+    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
 </div>
-<div id="tech">
 
+<div id="tech">
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
   <img src="https://img.shields.io/badge/C%2B%2B-F34B7E?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp Badge"/>
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="sh Badge"/>
+  <img src="https://img.shields.io/badge/GNU%20Bash-89E051?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="sh Badge"/>
   <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="rust badge"/>
 </div>
 
