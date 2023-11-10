@@ -1,6 +1,6 @@
 # Vincent Lafouasse
 
-<div id="flat">
+<div id="social">
   <a href="https://www.linkedin.com/in/vincent-lafouasse/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
