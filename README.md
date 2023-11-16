@@ -37,6 +37,12 @@ This project is about coding a C library. It will contain a lot of general purpo
 - [Game of Life](https://github.com/vincent-lafouasse/Conway-Game-of-Life): An implementation of Conway's Game of Life as a C learning exercise
 
 
+### Skills
+
+- C, C++, GNU make, gdb/lldb, POSIX shell and a bit of Rust
+- Digital Signal Processing, Applied Mathematics, Linear Algebra
+- Audio Engineering, Audio Software Engineering, JUCE
+
 
 ### 🔬 GitHub Stats
 </br>
