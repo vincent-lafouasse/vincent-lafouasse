@@ -39,7 +39,7 @@ This project is about coding a C library. It will contain a lot of general purpo
 
 ### Skills
 
-- C, C++, GNU make, gdb/lldb, POSIX shell and a bit of Rust
+- C, C++, GNU make, gdb/lldb, POSIX shell, googletest and a bit of Rust
 - Digital Signal Processing, Applied Mathematics, Linear Algebra
 - Audio Engineering, Audio Software Engineering, JUCE
 
