@@ -29,8 +29,7 @@ looking for an internship beginning in Fall 2024
 
 ### School Projects
 #### Common Core
-- [Libft](https://github.com/vincent-lafouasse/libft): Your very first own library <br>
-This project is about coding a C library. It will contain a lot of general purpose functions your programs will rely upon.
+- [Libft](https://github.com/vincent-lafouasse/libft): Rewriting the wheel : a C static library containing useful general purpose functions calqued from the standard libc
 
 ### Other Projects
 - [Summermall Tower Defence](https://github.com/vincent-lafouasse/Summermall-TD): A mazing tower defense game inspired by Wintermaul TD. Written basically in C with a conservative use of C++ features for convenience.
