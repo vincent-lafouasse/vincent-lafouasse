@@ -56,6 +56,6 @@ looking for an internship beginning in Fall 2024
    </a>
 
    <a href="https://github.com/vincent-lafouasse">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vincent-lafouasse&theme=github_dark&show_icons=true" alt="Poss's GitHub page" height="200"/>
+       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vincent-lafouasse&theme=github_dark&show_icons=true&include_all_commits=true" alt="Poss's GitHub page" height="200"/>
    </a>
 </div>
