@@ -29,7 +29,7 @@ looking for an internship beginning in Fall 2024
 
 ### School Projects
 #### Common Core
-- [Libft](https://github.com/vincent-lafouasse/libft): Rewriting the wheel : a C static library containing useful general purpose functions calqued from the standard libc
+- [Libft](https://github.com/vincent-lafouasse/libft): Rewriting the wheel : a static C library containing useful general purpose functions calqued from the standard library
 
 ### Other Projects
 - [Summermall Tower Defense](https://github.com/vincent-lafouasse/Summermall-TD): A mazing tower defense game inspired by Wintermaul TD. Written basically in C with a conservative use of C++ features for convenience.
