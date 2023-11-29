@@ -32,7 +32,7 @@ looking for an internship beginning in Fall 2024
 - [Libft](https://github.com/vincent-lafouasse/libft): Rewriting the wheel : a C static library containing useful general purpose functions calqued from the standard libc
 
 ### Other Projects
-- [Summermall Tower Defence](https://github.com/vincent-lafouasse/Summermall-TD): A mazing tower defense game inspired by Wintermaul TD. Written basically in C with a conservative use of C++ features for convenience.
+- [Summermall Tower Defense](https://github.com/vincent-lafouasse/Summermall-TD): A mazing tower defense game inspired by Wintermaul TD. Written basically in C with a conservative use of C++ features for convenience.
 - [Game of Life](https://github.com/vincent-lafouasse/Conway-Game-of-Life): An implementation of Conway's Game of Life as a C learning exercise
 
 
