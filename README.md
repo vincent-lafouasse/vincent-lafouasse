@@ -44,8 +44,8 @@ looking for an internship beginning in Fall 2024
 
 ### Toolchain
 
-- GNU make, googletest, gdb/lldb, cppcheck
-- JUCE framwework
+- GNU make/CMake, googletest, lldb, cppcheck
+- JUCE framework
 
 
 ### 🔬 GitHub Stats
