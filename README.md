@@ -29,7 +29,7 @@ looking for an internship beginning in Fall 2024
 
 ### School Projects
 #### Common Core
-- [Libft](https://github.com/vincent-lafouasse/libft): Rewriting the wheel : a general purpose C library calqued from the standard library
+- [Libft](https://github.com/vincent-lafouasse/libft): A general purpose C library: why deal with dependency hell when you can just write more C
 - [get_next_line](https://github.com/vincent-lafouasse/get_next_line): An introduction to buffered I/O in C
 
 ### Other Projects
