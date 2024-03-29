@@ -31,6 +31,7 @@ looking for an internship beginning in Fall 2024
 #### Common Core
 - [Libft](https://github.com/vincent-lafouasse/libft): A general purpose C library: why deal with dependency hell when you can just write more C
 - [get_next_line](https://github.com/vincent-lafouasse/get_next_line): An introduction to buffered I/O in C
+- [ft_printf](https://github.com/vincent-lafouasse/ft_printf): baby's first variadic function
 - [so_long](https://github.com/vincent-lafouasse/so_long): an introduction to graphical programming and the X Window System disguised as a fun lil 2D game
 
 ### Other Projects
