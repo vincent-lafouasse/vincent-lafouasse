@@ -31,6 +31,7 @@ looking for an internship beginning in Fall 2024
 #### Common Core
 - [Libft](https://github.com/vincent-lafouasse/libft): A general purpose C library: why deal with dependency hell when you can just write more C
 - [get_next_line](https://github.com/vincent-lafouasse/get_next_line): An introduction to buffered I/O in C
+- [so_long](https://github.com/vincent-lafouasse/so_long)
 
 ### Other Projects
 - [Summermall Tower Defense](https://github.com/vincent-lafouasse/Summermall-TD): A mazing tower defense game inspired by Wintermaul TD. Basically in C with a conservative use of C++ features for convenience.
