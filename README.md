@@ -12,8 +12,8 @@
 <div id="tech">
   <img src="https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white" alt="C Badge"/>
   <img src="https://img.shields.io/badge/C%2B%2B-F34B7E?style=flat&logo=c%2B%2B&logoColor=white" alt="Cpp Badge"/>
-  <img src="https://img.shields.io/badge/GNU%20Bash-89E051?style=flat&logo=GNU%20Bash&logoColor=black" alt="sh Badge"/>
   <img src="https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=black" alt="rust badge"/>
+  <img src="https://img.shields.io/badge/Bash-89E051?style=flat&logo=GNU%20Bash&logoColor=black" alt="sh Badge"/>
 </div>
 
 </br>
