@@ -55,7 +55,7 @@ looking for an internship beginning in Spring 2025
 </br>
 <div align="center"> 
    <a href="https://github.com/vincent-lafouasse" >
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-lafouasse&langs_count=3&theme=github_dark&hide=html,css,lua,cmake,shell,make"" alt="Poss's GitHub languages" height="200"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-lafouasse&langs_count=3&theme=github_dark&hide=html,css,lua,cmake,shell,makefile"" alt="Poss's GitHub languages" height="200"/>
    </a>
 
    <a href="https://github.com/vincent-lafouasse">
