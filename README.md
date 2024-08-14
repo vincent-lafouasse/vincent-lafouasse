@@ -20,7 +20,7 @@
 
 music lover trying to get a career in DSP or audio software engineering (maybe both)
 
-looking for an internship beginning in Spring 2025
+looking for an internship beginning in Spring 2026
 
 ### Audio Projects
 - [PossDSP](https://github.com/vincent-lafouasse/PossDSP): A collection of audio plugins brought to life by the Juce framework and C++17
