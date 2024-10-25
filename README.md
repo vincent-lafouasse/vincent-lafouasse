@@ -41,9 +41,9 @@ looking for an internship beginning in Spring 2026
 
 ### Skills
 
-- C, C++, POSIX shell and a bit of Rust
+- C, C++, POSIX shell and some Rust
 - Digital Signal Processing, Applied Mathematics, Linear Algebra
-- Audio Engineering, Audio Software Engineering
+- Audio Software Engineering, Music Production
 
 ### Toolchain
 
