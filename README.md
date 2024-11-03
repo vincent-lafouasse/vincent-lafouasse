@@ -47,7 +47,7 @@ looking for an internship beginning in Spring 2026
 
 ### Toolchain
 
-- GNU Make/CMake, googletest, lldb, cppcheck
+- make, cmake, gtest
 - JUCE
 
 
