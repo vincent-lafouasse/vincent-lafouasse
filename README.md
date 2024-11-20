@@ -24,7 +24,7 @@ looking for an internship beginning in Spring 2026
 
 ### Audio Projects
 - [PossDSP](https://github.com/vincent-lafouasse/PossDSP): A collection of audio plugins brought to life by the Juce framework and C++17
-- [PossWavSynth](https://github.com/vincent-lafouasse/PossWavSynth): An exploration of digital audio, the wav audio format and wavetable synthesis disguised as a non real-time synth using only standard C++17
+- [play](https://github.com/vincent-lafouasse/play): A wav decoder and player using the `portaudio` API and standard C++17
 - [interval-trainer](https://github.com/vincent-lafouasse/interval-trainer): An ear trainer in Rust featuring a rudimentary synth
 
 ### School Projects
