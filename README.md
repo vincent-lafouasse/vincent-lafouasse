@@ -50,8 +50,9 @@ looking for an internship beginning in Spring 2026
 
 ### Toolchain
 
+- C++17
 - make, cmake, gtest
-- JUCE
+- JUCE 8
 
 
 ### 🔬 GitHub Stats
