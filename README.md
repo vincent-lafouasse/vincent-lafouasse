@@ -31,7 +31,7 @@ looking for an internship beginning in Spring 2026
 - [libft](https://github.com/vincent-lafouasse/libft): A general purpose C library: why deal with dependency hell when you can just write more C
 - [miniRT](https://github.com/vincent-lafouasse/miniRT): A ray tracer capable of serveing tea
 - [minishell](https://github.com/vincent-lafouasse/minishell): Some of POSIX `sh`, not all of it but a good chunk
-- [CXX](https://github.com/vincent-lafouasse/cxx-modules): Byte-size C++ problems
+- [C++ modules](https://github.com/vincent-lafouasse/cxx-modules): Byte-size C++ problems
 
 ### Other Projects
 - [Summermall Tower Defense](https://github.com/vincent-lafouasse/Summermall-TD): A mazing tower defense game inspired by Wintermaul TD. Basically in C with a conservative use of C++ features for convenience.
