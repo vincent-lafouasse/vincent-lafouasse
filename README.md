@@ -26,6 +26,8 @@ looking for an internship beginning in Spring 2026
 - [PossGain](https://github.com/vincent-lafouasse/PossGain): Baby's first plugin, a clone of Ableton Utility using JUCE and C++17
 - [Hera](https://github.com/vincent-lafouasse/Hera): Kinda like a Juno but Greek
 - [interval-trainer](https://github.com/vincent-lafouasse/interval-trainer): An ear trainer in Rust featuring a rudimentary synth
+- [WavAnalyzer](https://github.com/vincent-lafouasse/WavAnalyzer): An excuse to code a FFT with just standard C++17 and no dependencies
+
 
 ### School Projects
 - [libft](https://github.com/vincent-lafouasse/libft): A general purpose C library: why deal with dependency hell when you can just write more C
@@ -34,6 +36,8 @@ looking for an internship beginning in Spring 2026
 - [C++ modules](https://github.com/vincent-lafouasse/cxx-modules): Byte-size C++ problems
 
 ### Other Projects
+- [Pendulum](https://github.com/vincent-lafouasse/Pendulum): A pendulum simulation (soon with two arms)
+- [rxd](https://github.com/vincent-lafouasse/rxd): Handling bytes: a clone of `xxd` with a funnier name
 - [Summermall Tower Defense](https://github.com/vincent-lafouasse/Summermall-TD): A mazing tower defense game inspired by Wintermaul TD. Basically in C with a conservative use of C++ features for convenience.
 - [Game of Life](https://github.com/vincent-lafouasse/Conway-Game-of-Life): An implementation of Conway's Game of Life as a C learning exercise
 
