@@ -31,7 +31,7 @@ looking for an internship beginning in Spring 2026
 
 ### School Projects
 - [libft](https://github.com/vincent-lafouasse/libft): A general purpose C library: why deal with dependency hell when you can just write more C
-- [miniRT](https://github.com/vincent-lafouasse/miniRT): A ray tracer capable of serveing tea
+- [miniRT](https://github.com/vincent-lafouasse/miniRT): A ray tracer capable of serving tea
 - [minishell](https://github.com/vincent-lafouasse/minishell): Some of POSIX `sh`, not all of it but a good chunk
 - [C++ modules](https://github.com/vincent-lafouasse/cxx-modules): Byte-size C++ problems
 
