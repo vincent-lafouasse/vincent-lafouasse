@@ -28,11 +28,10 @@ looking for an internship beginning in Spring 2026
 - [interval-trainer](https://github.com/vincent-lafouasse/interval-trainer): An ear trainer in Rust featuring a rudimentary synth
 
 ### School Projects
-#### Common Core
-- [Libft](https://github.com/vincent-lafouasse/libft): A general purpose C library: why deal with dependency hell when you can just write more C
-- [get_next_line](https://github.com/vincent-lafouasse/get_next_line): An introduction to buffered I/O in C
-- [ft_printf](https://github.com/vincent-lafouasse/ft_printf): baby's first variadic function
-- [so_long](https://github.com/vincent-lafouasse/so_long): an introduction to the X Window System disguised as a fun lil 2D game
+- [libft](https://github.com/vincent-lafouasse/libft): A general purpose C library: why deal with dependency hell when you can just write more C
+- [miniRT](https://github.com/vincent-lafouasse/miniRT): A ray tracer capable of serveing tea
+- [minishell](https://github.com/vincent-lafouasse/minishell): Some of POSIX `sh`, not all of it but a good chunk
+- [CXX](https://github.com/vincent-lafouasse/cxx-modules): Byte-size C++ problems
 
 ### Other Projects
 - [Summermall Tower Defense](https://github.com/vincent-lafouasse/Summermall-TD): A mazing tower defense game inspired by Wintermaul TD. Basically in C with a conservative use of C++ features for convenience.
