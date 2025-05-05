@@ -24,7 +24,7 @@ looking for an internship beginning in Spring 2026
 
 ### Audio Projects
 - [PossGain](https://github.com/vincent-lafouasse/PossGain): Baby's first plugin, a clone of Ableton Utility using JUCE and C++17
-- [Hera](https://github.com/vincent-lafouasse/Hera): A Juno-esque synthesizer
+- [Hera](https://github.com/vincent-lafouasse/Hera): Kinda like a Juno but Greek
 - [interval-trainer](https://github.com/vincent-lafouasse/interval-trainer): An ear trainer in Rust featuring a rudimentary synth
 
 ### School Projects
