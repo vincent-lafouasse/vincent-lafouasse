@@ -23,8 +23,8 @@ music lover trying to get a career in DSP or audio software engineering (maybe b
 looking for an internship beginning in Spring 2026
 
 ### Audio Projects
-- [PossDSP](https://github.com/vincent-lafouasse/PossDSP): A collection of audio plugins brought to life by the Juce framework and C++17
-- [play](https://github.com/vincent-lafouasse/play): A wav decoder and player using the `portaudio` API and standard C++17
+- [PossGain](https://github.com/vincent-lafouasse/PossGain): Baby's first plugin, a clone of Ableton Utility using JUCE and C++17
+- [Hera](https://github.com/vincent-lafouasse/Hera): A Juno-esque synthesizer
 - [interval-trainer](https://github.com/vincent-lafouasse/interval-trainer): An ear trainer in Rust featuring a rudimentary synth
 
 ### School Projects
