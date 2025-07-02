@@ -36,7 +36,7 @@ looking for an internship beginning in Spring 2026
 - [C++ modules](https://github.com/vincent-lafouasse/cxx-modules): Byte-size C++ problems
 
 ### Other Projects
-- [Pendulum](https://github.com/vincent-lafouasse/Pendulum): A pendulum simulation (soon with two arms)
+- [Pendulum](https://github.com/vincent-lafouasse/Pendulum): The double pendulum, a study in Chaos
 - [rxd](https://github.com/vincent-lafouasse/rxd): Handling bytes: a clone of `xxd` with a funnier name
 - [Summermall Tower Defense](https://github.com/vincent-lafouasse/Summermall-TD): A mazing tower defense game inspired by Wintermaul TD. Basically in C with a conservative use of C++ features for convenience.
 - [Game of Life](https://github.com/vincent-lafouasse/Conway-Game-of-Life): An implementation of Conway's Game of Life as a C learning exercise
