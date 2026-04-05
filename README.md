@@ -39,6 +39,7 @@ Interested in low-level audio, embedded systems, and the kind of C that requires
 
 ### Other
 
+- [biberon](https://github.com/vincent-lafouasse/biberon): A BibTeX parser and citation formatter in standard OCaml
 - [Hera](https://github.com/vincent-lafouasse/Hera): Juno-inspired synth in C++ / JUCE
 - [Pendulum](https://github.com/vincent-lafouasse/Pendulum): Double pendulum chaos simulation
 - [schemin](https://github.com/vincent-lafouasse/schemin): Scheme playground and SICP exercises
